@@ -1,6 +1,6 @@
 ﻿# Hi-There ↓
+![Linkedin Banner](https://user-images.githubusercontent.com/110517543/218270089-677d2a10-11ee-41f7-8f6f-33e5554b0cf4.png)
 
-![](https://media.licdn.com/dms/image/D5616AQEtrMPQkWn4tQ/profile-displaybackgroundimage-shrink_350_1400/0/1673359188183?e=1679529600&v=beta&t=5OzUWtptzr-r_o3m_3xJztAbGf4nSyvlKYv8sUc7sEA](https://media.licdn.com/dms/image/D4D16AQHlxO7rgGlC5g/profile-displaybackgroundimage-shrink_350_1400/0/1675963233879?e=1681344000&v=beta&t=dxK7vYPfJj6jBBTNHflRKD_l40V-mijNG6VczXsoLKE)
 
 Don't Have Time To Create A Website For Your Business?
 
