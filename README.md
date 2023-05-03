@@ -11,15 +11,10 @@ If you're looking for a reliable and experienced web developer and designer to b
 
 Here are some key points that stand out from your original text:
 
-You're a web developer and designer with over a year of experience.
-You specialize in various web development technologies and popular content management systems.
-You have a proven track record of success and have received positive feedback from clients.
-You're dedicated to delivering high-quality results and helping clients achieve their goals.
-And here's a possible way to format it as a GitHub profile description:
-
-Asad Ali
-About Me
-I'm a web developer and designer with over a year of experience. I specialize in a variety of web development technologies and content management systems such as WordPress, Shopify, and Squarespace. I take pride in my work and have a proven track record of success, with positive feedback from clients for my dedication, skill, and high-quality results. I'm passionate about creating beautiful and functional websites that help my clients achieve their goals.
+I'm a web developer and designer with over a year of experience.
+I'm specialize in various web development technologies and popular content management systems.
+I have a proven track record of success and have received positive feedback from clients.
+I'm dedicated to delivering high-quality results and helping clients achieve their goals.
 
 Skills
 Web development
@@ -27,5 +22,7 @@ Web design
 WordPress
 Shopify
 Squarespace
+
 Contact
+
 If you're looking for a reliable and experienced web developer and designer to bring your project to life, don't hesitate to get in touch. You can reach me at ][](https://zaap.bio/asadalizia)].
